@@ -1,0 +1,98 @@
+.container-fluid {
+    padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto
+}
+
+#header h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    background-color: #e0b1d1;
+}
+
+#img_bug{
+    width: 150px;
+    height: 150px;
+    float: left;
+}  /*headerin muokkaus päättyy*/
+
+.nav-item{
+    padding: 20px;
+    width: auto;
+}
+
+a{
+    border-radius: 10px;
+}
+
+a:hover{
+    background-color: hsl(167, 59%, 75%);
+} /*navbarin muokkaus päättyy*/
+
+
+#text-area h1{
+    margin: auto;
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+
+#text-area{
+    padding-top: 5%;
+    padding-right: 10%;
+}
+
+#img-area{
+   
+    margin: auto;
+    text-align: center;
+}
+
+/*footerin muokkaus*/
+
+#footer {
+    background-color: #e0b1d1;
+}
+
+.important {
+    color: red;
+}
+
+
+#form {
+    
+    text-align: center;
+    margin: auto;
+}
+
+#text-area h3 {
+    text-align: center;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*karusellisivun muokkaus*/
+
+#carouselExample {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 10px solid hsl(167, 59%, 75%);
+    
+    
+}

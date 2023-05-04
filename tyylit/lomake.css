@@ -1,0 +1,63 @@
+.container-fluid {
+    padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto
+}
+
+#header h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    background-color: #e0b1d1;
+}
+
+#img_bug{
+    width: 150px;
+    height: 150px;
+    float: left;
+}  /*headerin muokkaus päättyy*/
+
+.nav-item{
+    padding: 20px;
+    width: auto;
+}
+
+a{
+    border-radius: 10px;
+}
+
+a:hover{
+    background-color: hsl(167, 59%, 75%);
+} /*navbarin muokkaus päättyy*/
+
+
+/*lomakkeen muokkaus*/
+.important {
+    color: #e0b1d1;
+    text-decoration: dashed;
+}
+
+
+#form {
+    
+    text-align: center;
+    margin: auto;
+}
+
+#text-area h3 {
+    text-align: center;
+    margin: auto;
+}
+
+
+body{
+    background-color: #ffffff;
+    text-align: center;
+    text-decoration:dotted;  
+}
+
+#h3 {
+    text-align: center;
+    margin: auto;
+}
